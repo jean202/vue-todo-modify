@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # vue-todo
 
 > A Vue.js project
@@ -16,3 +17,7 @@ npm run build
 ```
 
 For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+# vue-todo-modify
+Doit!Vue.js의 todo어플리케이션을 따라 만들고 수정하기 기능을 추가
+>>>>>>> 7e6cafcd6695400ac565e250850f0014da583728
