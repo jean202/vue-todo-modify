@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # vue-todo
 
 > A Vue.js project
@@ -21,3 +22,7 @@ For detailed explanation on how things work, consult the [docs for vue-loader](h
 # vue-todo-modify
 Doit!Vue.js의 todo어플리케이션을 따라 만들고 수정하기 기능을 추가
 >>>>>>> 7e6cafcd6695400ac565e250850f0014da583728
+=======
+# vue-todo-modify
+Doit!Vue.js의 todo어플리케이션을 따라 만들고 수정하기 기능을 추가
+>>>>>>> 6a2c847d3a5b8aeef751f49421bc979138e8b6ec
