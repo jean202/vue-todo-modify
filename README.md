@@ -1,5 +1,5 @@
 
-<<<<<<< HEAD
+
 # vue-todo
 
 > A Vue.js project
@@ -21,5 +21,5 @@ For detailed explanation on how things work, consult the [docs for vue-loader](h
 =======
 # vue-todo-modify
 Doit!Vue.js의 todo어플리케이션을 따라 만들고 수정하기 기능을 추가
-좀 더 다양한 기능을 추가해 볼 것
+
 
